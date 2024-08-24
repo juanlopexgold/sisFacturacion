@@ -1,0 +1,6 @@
+C:\Users\juan\Desktop\TrabajoNcapas\SistemaVentasNCapas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\juan\Desktop\TrabajoNcapas\SistemaVentasNCapas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\juan\Desktop\TrabajoNcapas\SistemaVentasNCapas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\juan\Desktop\TrabajoNcapas\SistemaVentasNCapas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\juan\Desktop\TrabajoNcapas\SistemaVentasNCapas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\juan\Desktop\TrabajoNcapas\SistemaVentasNCapas\CapaDatos\obj\Debug\CapaDatos.pdb
